@@ -13,5 +13,3 @@ ActiveRecord::Schema.define(version: 20190829020519) do
   end
 
 end
-
-rake db:migrate SINATRA_ENV=test
