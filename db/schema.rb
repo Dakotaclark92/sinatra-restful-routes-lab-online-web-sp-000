@@ -1,4 +1,4 @@
-ActiveRecord::Schema.define(version: 20190829020519) do
+ActiveRecord::Schema.define(version: 20190828223625) do
 
   create_table "recipes", force: :cascade do |t|
     t.string "name"
