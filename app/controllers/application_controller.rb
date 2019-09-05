@@ -6,4 +6,6 @@ class ApplicationController < Sinatra::Base
 
   # code actions here!
 
+
+
 end
